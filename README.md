@@ -37,7 +37,7 @@ Install the most recent, stable version of the package from
 github using
 
 ```
-remotes::install_github("nwfsc-assess/RecFIN")
+remotes::install_github("pfmc-assessments/RecFIN")
 ```
 
 ## Usage
