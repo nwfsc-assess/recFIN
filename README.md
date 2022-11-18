@@ -15,6 +15,15 @@ This package is meant to work with this data.
 * [PSMFC][]: Pacific States Marine Fisheries Commission
 * [RecFIN][]: Recreational Fisheries Information Network
 
+## State Sampling Programs
+Each state collects data from their recreational fisheries which is then transmitted to RecFIN:
+
+* [CRFS](https://wildlife.ca.gov/Conservation/Marine/CRFS): California Recreational Fisheries Survey
+  * [CRFS Sampling Protocol Manual](https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=62348&inline)
+  * [CRFS General Information](http://wiki.recfin.org/index.php/California_Recreational_Fisheries_Survey)
+* ORBS: Oregon Ocean Recreational Boats Survey
+  * [ORBS Sampling Design](https://www.dfw.state.or.us/mrp/salmon/docs/ORBS_Design.pdf)
+
 ## Installation
 
 Installing RecFIN requires the use of
